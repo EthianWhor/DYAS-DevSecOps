@@ -276,7 +276,7 @@ El detalle de cada etapa, la vista de despliegue y el procedimiento de reversió
 ### Prerrequisitos
 
 Se asume que conoces **Docker Compose**, **GitHub Actions** y **pruebas con JUnit**. Como referencia opcional están los talleres
-[Integración continua](https://github.com/CesarAVegaF312/DAYS-Integracion_continua),
+[Integración continua](https://github.com/CesarAVegaF312/DYAS-Integracion_continua),
 [Docker](https://github.com/CesarAVegaF312/DYAS-Docker) y
 [Monitoreo](https://github.com/CesarAVegaF312/DYAS-Monitoreo).
 
